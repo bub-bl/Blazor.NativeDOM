@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor.NativeDOM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blazor.NativeDOM.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blazor.NativeDOM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blazor.NativeDOM.props",
+      "PackagePath": "build\\Blazor.NativeDOM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor.NativeDOM.props",
+      "PackagePath": "buildMultiTargeting\\Blazor.NativeDOM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blazor.NativeDOM.props",
+      "PackagePath": "buildTransitive\\Blazor.NativeDOM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

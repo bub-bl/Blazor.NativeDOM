@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "yfc8qiOgG0s1svUaI0T0HTfhJt9F0oILLYuox+f2PIo=",
+  "Source": "Blazor.NativeDOM",
+  "BasePath": "_content/Blazor.NativeDOM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blazor.NativeDOM\\wwwroot",
+      "Source": "Blazor.NativeDOM",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor.NativeDOM.styles.css",
+      "SourceId": "Blazor.NativeDOM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "RelativePath": "Blazor.NativeDOM.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor.NativeDOM.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor.NativeDOM.bundle.scp.css",
+      "SourceId": "Blazor.NativeDOM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "RelativePath": "Blazor.NativeDOM.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor.NativeDOM.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "Blazor.NativeDOM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "D0Mc/HlBlf/F9EUukUuQd0ummuxQrxXWtC1hhqnTrmA=",
+  "Source": "Blazor.NativeDOM",
+  "BasePath": "_content/Blazor.NativeDOM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM.WebIDL\\Blazor.NativeDOM.WebIDL.csproj",
+      "Version": 2,
+      "Source": "Blazor.NativeDOM.WebIDL",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blazor.NativeDOM.WebIDL\\wwwroot",
+      "Source": "Blazor.NativeDOM.WebIDL",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM.WebIDL\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM.WebIDL",
+      "Pattern": "**"
+    },
+    {
+      "Name": "Blazor.NativeDOM\\wwwroot",
+      "Source": "Blazor.NativeDOM",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM.WebIDL\\wwwroot\\Blazor.NativeDOM.WebIDL.js",
+      "SourceId": "Blazor.NativeDOM.WebIDL",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM.WebIDL\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM.WebIDL",
+      "RelativePath": "Blazor.NativeDOM.WebIDL.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Blazor.NativeDOM.WebIDL.js"
+    },
+    {
+      "Identity": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\Blazor.NativeDOM.js",
+      "SourceId": "Blazor.NativeDOM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bubbl\\Documents\\github\\Blazor.Mune\\Blazor.NativeDOM\\wwwroot\\",
+      "BasePath": "_content/Blazor.NativeDOM",
+      "RelativePath": "Blazor.NativeDOM.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Blazor.NativeDOM.js"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+### Current support for DOM elements and objects
+- [x] ScreenOrientation
+- [x] ScrollBehavior
+- [x] ScrollOptions
+- [x] ScrollToOptions
+- [x] EventListener
+- [x] EventListenerOptions
+- [x] EventTarget
+- [x] Event
+- [x] CustomEvent
+- [x] Orientation
+- [x] OrientationLock
+- [x] Location (Missing documentation)
+- [x] Console
+- [x] Screen
+- [x] DOMStringList
+### In progress support for DOM elements and objects
+- [ ] Window
+- [ ] Document
+- [ ] History
+- [ ] Navigator
+- [ ] Performance
+- [ ] Storage
+- [ ] WebSocket
+- [ ] WebWorker
+- [ ] Node
+- [ ] Element

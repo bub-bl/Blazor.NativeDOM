@@ -1,0 +1,16 @@
+﻿@ChildContent
+
+@code {
+
+    [Inject]
+    public API.NativeDOM NativeDom { get; set; } = null!;
+    
+    [Parameter] public RenderFragment ChildContent { get; set; } = null!;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender) return;
+        await NativeDom.Initialize();
+    }
+
+}
